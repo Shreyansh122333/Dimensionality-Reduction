@@ -1,5 +1,6 @@
 # Dimensionality-Reduction
-*Methodology*
+
+Methodology
 The methodology for using random projection for dimension reduction is relatively simple and
 consists of the following steps:
 1. Choose the number of dimensions in the projected space: The number of dimensions in
